@@ -6,33 +6,12 @@ HackerRank coding practice for CSE placement preparation
 HackerRank
 
 ## Topic
-Python Collections – Counter
+23-09-2026: Arrays, Strings, Functions, Recursion +Sorting (Bubble/Selection/Insertion/Merge/Quick), searching, Big-O  
+24-09-2026: number system   
+26-09-2026: Linked LIsts (Singly, Doubly, circular)  
+28-09-2026:Time, Speed & Distance  
+29-09-2026: Time & Work, Pipes & Cisterns  
+30-09-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
+01-10-2026 to 03-10-2026: Averages & Mixtures , SI/CI + Mock Aptitude Test 1  
+05-10-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
 
-## Problem
-Calculate the total amount earned by a shoe shop owner based on
-available shoe sizes and customer purchases.
-
-## Concepts Learned
-- `collections.Counter`
-- Frequency counting
-- Dictionary-style access
-- Updating inventory
-- Loops and conditions
-
-## Approach
-1. Store the available shoe sizes using `Counter`.
-2. Read each customer's requested shoe size and price.
-3. Check whether the requested shoe size is available.
-4. If available, add the price to the total earnings.
-5. Decrease the stock of that shoe size by 1.
-
-## Key Code Pattern
-
-```python
-from collections import Counter
-
-stock = Counter(sizes)
-
-if stock[size] > 0:
-    money += price
-    stock[size] -= 1

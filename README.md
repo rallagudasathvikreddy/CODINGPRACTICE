@@ -1,10 +1,7 @@
 # CODINGPRACTICE
 HackerRank coding practice for CSE placement preparation
-# Collections.Counter() – Shoe Shop
-
 ## Platform
 HackerRank
-
 ## Topic
 23-09-2026: Arrays, Strings, Functions, Recursion +Sorting (Bubble/Selection/Insertion/Merge/Quick), searching, Big-O  
 24-09-2026: number system   

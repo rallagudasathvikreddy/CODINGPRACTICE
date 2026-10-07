@@ -10,5 +10,5 @@ HackerRank
 29-09-2026: Time & Work, Pipes & Cisterns  
 30-09-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
 01-10-2026 to 03-10-2026: Averages & Mixtures , SI/CI + Mock Aptitude Test 1  
-05-10-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
+05-10-2026 to 07-10-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
 
